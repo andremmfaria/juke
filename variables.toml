@@ -1,0 +1,11 @@
+date = "31/01/2022"
+month = "January"
+
+[worker]
+first_name = "Rodrigo"
+last_name = "Lourenco"
+
+[manager]
+first_name = "Andre"
+last_name = "Faria"
+role = "Operational Coordinator"
